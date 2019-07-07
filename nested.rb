@@ -130,6 +130,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-     dennis_new_info = 
+     dennis_new_info = "Assembly"
 
 end
